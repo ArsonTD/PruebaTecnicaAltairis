@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker --context default build -)",
+      "Bash(docker info *)"
+    ]
+  }
+}
